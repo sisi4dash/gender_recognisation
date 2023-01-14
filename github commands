@@ -1,0 +1,7 @@
+echo "# gender_recognisation" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sisi4dash/gender_recognisation.git
+git push -u origin main
